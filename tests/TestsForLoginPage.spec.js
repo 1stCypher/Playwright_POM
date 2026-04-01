@@ -3,7 +3,7 @@ import LoginPage from '../Pages/LoginPage';
 
 // tests refactored to use Page Object Model properly
 
-test.describe('Login page tests', () => {
+test.describe('Login page tests 2', () => {
     let login;
 
     test.beforeEach(async ({ page }) => {
